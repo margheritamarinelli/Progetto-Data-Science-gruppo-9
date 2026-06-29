@@ -1,4 +1,7 @@
-# Progetto-Data-Science-gruppo-9 - Previsione dell'abbandono dei dipendenti
+# Previsione dell'abbandono dei dipendenti
+## Progetto del corso di Introduzione al Pensiero Computazionale e alla Data Science
+## A.A. 2025/2026 — Alma Mater Studiorum, Università di Bologna
+## Docente: Francesco Poggi 
 
 ## Indice
 1. Descrizione del progetto
