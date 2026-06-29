@@ -39,12 +39,19 @@ Prevedere se un dipendente abbandonerà l'azienda (classificazione binaria) e in
 Tutti i modelli sono stati valutati con le seguenti metriche: accuracy, precision, recall, F1-score e confusion matrix. Il confronto finale è stato effettuato tramite 10-fold cross-validation stratificata.
 
 ## Struttura del repository
-/
-├── data/         	# dataset originale e versioni pre-processate
-├── notebook/     	# notebook Colab con l'analisi completa
-├── figures/       	# grafici esportati (heatmap, confusion matrix, ecc.)
-├── report/        	# sorgenti LaTeX/Overleaf e PDF finale della relazione
+```text
+.
+├── data/
+├── notebooks/
+├── figures/
+├── report/
 └── README.md
+```
+
+- **data/**: dataset originale e versioni pre-processate.
+- **notebooks/**: notebook Colab con l'intera analisi.
+- **figures/**: grafici esportati (heatmap, confusion matrix, ROC curve, ecc.).
+- **report/**: sorgenti LaTeX/Overleaf e PDF finale della relazione.
 
 ## Istruzioni per l'esecuzione
 1. Apire il notebook “notebooks/Progetto_Data_Science_gruppo9.ipynb” in Google Colab;
