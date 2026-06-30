@@ -48,6 +48,7 @@ Tutti i modelli sono stati valutati con le seguenti metriche: accuracy, precisio
 ├── notebooks/
 ├── figures/
 ├── report/
+├── LICENSE/
 └── README.md
 ```
 
@@ -55,6 +56,7 @@ Tutti i modelli sono stati valutati con le seguenti metriche: accuracy, precisio
 - **notebooks/**: notebook Colab con l'intera analisi.
 - **figures/**: grafici esportati (heatmap, confusion matrix, ROC curve, ecc.).
 - **report/**: sorgenti LaTeX/Overleaf e PDF finale della relazione.
+- **license/** – Contiene la licenza del progetto e le informazioni relative ai termini di utilizzo, modifica e distribuzione.
 
 ## Istruzioni per l'esecuzione
 1. Apire il notebook “notebooks/Progetto_Data_Science_gruppo9.ipynb” in Google Colab;
