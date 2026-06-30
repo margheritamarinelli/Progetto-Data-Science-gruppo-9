@@ -59,7 +59,7 @@ Tutti i modelli sono stati valutati con le seguenti metriche: accuracy, precisio
 - **license** – contiene la licenza del progetto e le informazioni relative ai termini di utilizzo, modifica e distribuzione.
 
 ## Istruzioni per l'esecuzione
-1. Apire il notebook “notebooks/Progetto_Data_Science_gruppo9.ipynb” in Google Colab;
+1. Aprire il notebook “notebooks/Progetto_Data_Science_gruppo9.ipynb” in Google Colab;
 2. Caricare il dataset (Employee_Attrition.csv) nella cartella “sample_data”;
 3. Eseguire la prima cella di importazione delle librerie;
 4. Eseguire tutte le altre celle.
