@@ -45,16 +45,16 @@ Tutti i modelli sono stati valutati con le seguenti metriche: accuracy, precisio
 ```text
 .
 ├── data/
-├── notebooks/
 ├── figures/
+├── notebook/
 ├── report/
 ├── LICENSE
 └── README.md
 ```
 
 - **data/**: dataset originale e versioni pre-processate.
-- **notebooks/**: notebook Colab con l'intera analisi.
 - **figures/**: grafici esportati (heatmap, confusion matrix, ROC curve, ecc.).
+- **notebook/**: notebook Colab con l'intera analisi.
 - **report/**: sorgenti LaTeX/Overleaf e PDF finale della relazione.
 - **license** – contiene la licenza del progetto e le informazioni relative ai termini di utilizzo, modifica e distribuzione.
 
